@@ -1,5 +1,5 @@
 # ledmac
-The original ledmac package by Peter Wilson, March 2003.
+The original LEDMAC package for typesetting critical editions, by Peter Wilson, March 2003.
 
 This LaTeX package is placed here for the record and to preserve the history of an important 
 piece of typographic software.  It should be noted that LEDMAC still works well, if the 
