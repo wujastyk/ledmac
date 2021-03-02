@@ -10,4 +10,4 @@ The main documentation file in this repo is [ledmac.pdf](https://github.com/wuja
 
 See the [Github EDMAC repo](https://github.com/wujastyk/edmac/blob/master/README.md) for further documentation on the history of this package.
 
-Peter Wilson is perhaps best known for authoring the well-known and influential [Memoir package](https://ctan.org/pkg/memoir).  Dave Walden conducted a fine interview with Peter in 2006 that can be read [on the TUG website](https://tug.org/interviews/wilson.html).
+Peter Wilson is perhaps best known for authoring the influential [Memoir package](https://ctan.org/pkg/memoir).  Peter has also contributed code to [almost 100 other TeX macro packages](https://ctan.org/author/wilson).  Dave Walden conducted a fine interview with Peter in 2006 that can be read [on the TUG website](https://tug.org/interviews/wilson.html).
