@@ -1,6 +1,10 @@
 # ledmac
 The original ledmac package by Peter Wilson, March 2003.
 
+This LaTeX package is placed here for the record and to preserve the history of an important 
+piece of typographic software.  It should be noted that LEDMAC still works well, if the 
+feature-set meets your needs.
+
 In March 2003 Peter Wilson started an attempt to port EDMAC
 from TeX to LaTeX. The starting point was EDMAC version 3.16 
 as documented on 19 July 1994 (available from [CTAN](https://www.ctan.org/pkg/ledmac) 
