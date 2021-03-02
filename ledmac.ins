@@ -1,0 +1,74 @@
+%% ledmacins
+%% Copyright 2000 Peter R. Wilson
+%%
+%% This program is provided under the terms of the
+%% LaTeX Project Public License distributed from CTAN
+%% archives in directory macros/latex/base/lppl.txt.
+%%
+%% Author: Peter Wilson (CUA)
+%%         now at: peter.r.wilson@boeing.com
+%% 
+%% This file will generate fast loadable files and documentation
+%% driver files from the doc files in this package when run through
+%% LaTeX or TeX.
+%%
+%%
+%% --------------- start of docstrip commands ------------------
+%%
+\def\batchfile{ledmac.ins}
+\input docstrip.tex
+\preamble
+
+ Copyright 2000 Peter R. Wilson
+
+ This program is provided under the terms of the
+ LaTeX Project Public License distributed from CTAN
+ archives in directory macros/latex/base/lppl.txt.
+
+Author: Peter Wilson (CUA)
+        now at: peter.r.wilson@boeing.com
+
+\endpreamble
+
+\keepsilent
+
+%%% \Msg{*** Generating the driver file ***}
+%%% \generateFile{ledmac.drv}{t}{\from{ledmac.dtx}{driver}}
+
+\Msg{*** Generating the LaTeX2e package files ***}
+
+\generateFile{ledmac.sty}{t}{\from{ledmac.dtx}{code}}
+
+\Msg{*** Generating the LaTeX2e example files ***}
+
+\generateFile{ledfeat.tex}{t}{\from{ledmac.dtx}{features}}
+\generateFile{ledioc.tex}{t}{\from{ledmac.dtx}{ioc}}
+\generateFile{ledarden.tex}{t}{\from{ledmac.dtx}{arden}}
+\generateFile{ledmixed.tex}{t}{\from{ledmac.dtx}{periph}}
+
+
+\Msg{***********************************************************}
+\Msg{*}
+\Msg{* To finish the installation you have to move the following}
+\Msg{* file(s) into a directory searched by TeX:}
+\Msg{*}
+\Msg{* \space\space ledmac.sty}
+\Msg{*}
+\Msg{*}
+\Msg{* To produce the *.eps files for figures in the documentation}
+\Msg{* process each led*.tex file as}
+\Msg{* \space\space\space\space latex led* (three times to let everything settle)}
+\Msg{* \space\space\space\space dvips -E -o led*.eps led*}
+\Msg{*}
+\Msg{*}
+\Msg{* To produce the documentation run the files ending with}
+\Msg{* `.dtx' through LaTeX.}
+\Msg{* For an index, process any name.idx file by:}
+\Msg{* \space\space\space\space makeindex -s gind.ist name}
+\Msg{* For a list of changes, process any name.glo file by:}
+\Msg{* \space\space\space\space makeindex -s gglo.ist -o name.gls name.glo}
+\Msg{*}
+\Msg{* Happy TeXing}
+\Msg{***********************************************************}
+
+\endinput

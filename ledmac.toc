@@ -1,0 +1,60 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Overview}{3}{}%
+\contentsline {subsection}{\numberline {1.2}History}{4}{}%
+\contentsline {section}{\numberline {2}How to use \texttt {EDMAC}}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{6}{}%
+\contentsline {subsection}{\numberline {2.2}General markup}{6}{}%
+\contentsline {subsection}{\numberline {2.3}The apparatus}{9}{}%
+\contentsline {paragraph}{Commands used in {\tt \bslash text}'s second argument}{10}{}%
+\contentsline {paragraph}{Changing the names of these commands}{11}{}%
+\contentsline {subsection}{\numberline {2.4}Lineation commands}{11}{}%
+\contentsline {subsection}{\numberline {2.5}Changing the line numbers}{12}{}%
+\contentsline {subsection}{\numberline {2.6}Alternate footnote formatting}{13}{}%
+\contentsline {subsection}{\numberline {2.7}Fonts}{14}{}%
+\contentsline {subsection}{\numberline {2.8}Crop marks}{15}{}%
+\contentsline {subsection}{\numberline {2.9}Endnotes}{15}{}%
+\contentsline {subsection}{\numberline {2.10}Cross referencing}{15}{}%
+\contentsline {subsection}{\numberline {2.11}Miscellaneous}{17}{}%
+\contentsline {subsection}{\numberline {2.12}Known bugs}{17}{}%
+\contentsline {section}{\numberline {3}Implementation overview}{18}{}%
+\contentsline {section}{\numberline {4}Preliminaries}{18}{}%
+\contentsline {subsection}{\numberline {4.1}Sectioning commands}{19}{}%
+\contentsline {section}{\numberline {5}Line counting}{21}{}%
+\contentsline {subsection}{\numberline {5.1}Choosing the system of lineation}{21}{}%
+\contentsline {subsection}{\numberline {5.2}List macros}{25}{}%
+\contentsline {subsection}{\numberline {5.3}Line-number counters and lists}{26}{}%
+\contentsline {subsection}{\numberline {5.4}Reading the line-list file}{30}{}%
+\contentsline {subsection}{\numberline {5.5}Commands within the line-list file}{31}{}%
+\contentsline {subsection}{\numberline {5.6}Writing to the line-list file}{37}{}%
+\contentsline {section}{\numberline {6}Marking text for notes}{39}{}%
+\contentsline {subsection}{\numberline {6.1}{\tt \bslash text} itself}{41}{}%
+\contentsline {subsection}{\numberline {6.2}Substitute lemma}{45}{}%
+\contentsline {subsection}{\numberline {6.3}Substitute line numbers}{45}{}%
+\contentsline {section}{\numberline {7}Paragraph decomposition and reassembly}{46}{}%
+\contentsline {subsection}{\numberline {7.1}Boxes, counters, {\tt \bslash pstart} and {\tt \bslash pend}}{46}{}%
+\contentsline {subsection}{\numberline {7.2}Processing one line}{49}{}%
+\contentsline {subsection}{\numberline {7.3}Line and page number computation}{50}{}%
+\contentsline {subsection}{\numberline {7.4}Line number printing}{53}{}%
+\contentsline {subsection}{\numberline {7.5}Add insertions to the vertical list}{56}{}%
+\contentsline {subsection}{\numberline {7.6}Penalties}{57}{}%
+\contentsline {subsection}{\numberline {7.7}Printing leftover notes}{58}{}%
+\contentsline {section}{\numberline {8}Footnotes}{59}{}%
+\contentsline {subsection}{\numberline {8.1}Fonts}{59}{}%
+\contentsline {subsection}{\numberline {8.2}Outer-level footnote commands}{60}{}%
+\contentsline {subsection}{\numberline {8.3}Normal footnote formatting}{61}{}%
+\contentsline {subsection}{\numberline {8.4}Standard footnote definitions}{64}{}%
+\contentsline {subsection}{\numberline {8.5}Paragraphed footnotes}{66}{}%
+\contentsline {subsection}{\numberline {8.6}Columnar footnotes}{71}{}%
+\contentsline {paragraph}{Three columns}{71}{}%
+\contentsline {paragraph}{Two columns}{73}{}%
+\contentsline {section}{\numberline {9}Output routine}{74}{}%
+\contentsline {section}{\numberline {10}Cross referencing}{78}{}%
+\contentsline {section}{\numberline {11}Endnotes}{82}{}%
+\contentsline {section}{\numberline {12}The End}{84}{}%
+\contentsline {section}{\numberline {A}Examples}{85}{}%
+\contentsline {subsection}{\numberline {A.1}Simple example}{85}{}%
+\contentsline {subsection}{\numberline {A.2}General example of features}{87}{}%
+\contentsline {subsection}{\numberline {A.3}Gascoigne}{91}{}%
+\contentsline {subsection}{\numberline {A.4}Shakespeare}{95}{}%
+\contentsline {subsection}{\numberline {A.5}Classical text edition}{99}{}%
+\contentsline {section}{\numberline {B}Index}{106}{}%
