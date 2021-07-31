@@ -5,10 +5,11 @@ This LaTeX package is placed here for the record and to preserve the history of 
 piece of typographic software.  It should be noted that LEDMAC still works well, if the 
 feature-set meets your needs.
 
-In March 2003 Peter Wilson started an attempt to port EDMAC
+In March 2003 Peter Wilson started what he called "an attempt" to port EDMAC
 from TeX to LaTeX. The starting point was EDMAC version 3.16 
 as documented on 19 July 1994 (available from [CTAN](https://www.ctan.org/pkg/ledmac) 
-and now [Github](https://github.com/wujastyk/edmac)).
+and now [Github](https://github.com/wujastyk/edmac)).  The port was very successful.  
+At the time of writing (2021), I still use LEDMAC for several projects.
 
 The main documentation file in this repo is [ledmac.pdf](https://github.com/wujastyk/ledmac/blob/master/ledmac.pdf).
 
