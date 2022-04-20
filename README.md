@@ -1,4 +1,6 @@
 # ledmac
+[![DOI](https://zenodo.org/badge/343919584.svg)](https://zenodo.org/badge/latestdoi/343919584)
+
 The original LEDMAC package for typesetting critical editions, by Peter Wilson, March 2003.
 
 This LaTeX package is placed here for the record and to preserve the history of an important 
